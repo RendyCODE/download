@@ -1,6 +1,4 @@
-)<?php
- 
-echo "Hello World\n";#EXTM3U
+#EXTM3U
 ###### ADMIN ######
 #EXTINF:-1  tvg-logo="https://i.ibb.co/sVVHCDC/20200617-183712.png"group-title="ADMIN STV", UPDATE PLAYLIST URL M3U GRATIS STV TERBARU HARI INI, STV ADALAH SEMANGKE IPTV INDONESIA 
 https://dashboard.jwplayer.com/#/content/detail?key=ROpPgb2R&spotlight=default&tab=metadata&view=list
