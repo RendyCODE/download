@@ -13,7 +13,7 @@ https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_
 #EXTINF: -1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="LOKAL", RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL", INDOSIAR
-https://mkctvbos.my.id/mkcuse/indosiar.m3u8
+http://210.210.155.35/session/62c3f4aa-7aec-11ea-b162-c81f66f89318/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=d0cu4j7cnm&tkn=BEMV9570E7UC93I64J3E6KFTM2B2NMJK&chname=IndosiarC&chname=Indosiar
 #EXTINF: -1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL", SCTV
 https://mkctvbos.my.id/mkcuse/sctv.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="LOKAL", ANTV
@@ -21,7 +21,7 @@ http://103.130.186.138:8800/oxygenplay/antv/index.m3u8
 #EXTINF: -1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/08/30/1677242774.jpg" group-title="LOKAL", TRANS 7
 https://mkctvbos.my.id/mkcuse/trans7.m3u8
 #EXTINF: -1 tvg-logo="https://static.republika.co.id/uploads/images/inpicture_slide/logo-tvone-_140708120022-351.jpg" group-title="LOKAL", TVONE HD
-http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8?token=regieaerlays.m3u8
 #EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/BG7x-s_CqrM/maxresdefault.jpg" group-title="LOKAL", TRANS TV
 https://mkctvbos.my.id/mkcuse/trans.m3u8
 #EXTINF: -1 tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" group-title="LOKAL", iNews
